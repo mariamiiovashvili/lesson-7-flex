@@ -183,11 +183,21 @@
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+	opacity: 0.5;
+}
+.section2-line1-block:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
+
 }
 .section2-line1-block img {
 	margin-top: 88px;
 	margin-bottom: 57px;
+	
 }
+
 .section2-line1-block h4 {
 	font-size: 22px;
 	color: #FFFFFF;
@@ -228,6 +238,13 @@
 	justify-content: center;
 	flex-direction: column;
 	text-align: center;
+	opacity: 0.5;
+}
+.section2-line1-block2:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
 }
 .section2-line1-block2 img {
 	margin-top: 88px;
@@ -247,6 +264,13 @@
 	justify-content: center;
 	flex-direction: column;
 	text-align: center;
+	opacity: 0.5;
+}
+.section2-line1-block3:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
 }
 .section2-line1-block3 img {
 	margin-top: 88px;
@@ -273,6 +297,13 @@
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+	opacity: 0.5;
+}
+.section2-line2-block:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
 }
 .section2-line2-block img {
 	margin-top: 88px;
@@ -320,6 +351,13 @@
 	justify-content: center;
 	flex-direction: column;
 	text-align: center;
+	opacity: 0.5;
+}
+.section2-line2-block2:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
 }
 .section2-line2-block2 img {
 	margin-top: 88px;
@@ -339,6 +377,13 @@
 	justify-content: center;
 	flex-direction: column;
 	text-align: center;
+	opacity: 0.5;
+}
+.section2-line2-block3:hover {
+	opacity: 1.0;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 10px #888888;
 }
 .section2-line2-block3 img {
 	margin-top: 88px;
